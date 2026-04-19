@@ -112,15 +112,11 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
   <li>
   <strong>Mock Clinical Trail</strong> 
   </li>
+
+  <li>
+  <strong>Sales Review</strong> 
+  </li>
   
 </ul>
 
----
-
-## Future Project
-<ul>
-  <li>Power Bi </li>
-</ul>
-
-<p align="center"><strong>Thanks for visiting!</strong></p>
 
