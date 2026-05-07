@@ -92,11 +92,11 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/Username Here" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/Carl-43" alt="GitHub Contribution Chart" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Username here&theme=default" alt="GitHub Streak" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carl-43&theme=default" alt="GitHub Streak" width="40%">
 </div>
 
 ---
